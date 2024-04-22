@@ -1,3 +1,10 @@
+<h3 align="center">A Supabase SSR NextJs By
+Daily Web Coding</h3>
+
+<div align="center">
+    Detailed tutorial on <a href="https://www.youtube.com/watch?v=PdmKlne1gRY" target="_blank"><b>Daily Web Coding</b></a> YouTube.
+</div>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
